@@ -17,3 +17,5 @@ document.addEventListener('DOMContentLoaded', () => {
     headsButton.addEventListener('click', () => playGame('Heads'));
     tailsButton.addEventListener('click', () => playGame('Tails'));
 });
+
+<script src="script.js"></script>
